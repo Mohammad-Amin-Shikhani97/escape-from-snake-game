@@ -43,14 +43,6 @@ Escape From Snake Game is a console-based Java program where you navigate a char
   <li><strong>moveSnake(...):</strong> Advances the snake’s position toward the player.</li>
 </ul>
 
-<h2>References</h2>
-<ul>
-  <li><a href="https://docs.oracle.com/javase/8/docs/api/java/awt/Point.html" target="_blank">Java AWT Point</a></li>
-  <li><a href="https://docs.oracle.com/javase/8/docs/api/java/util/Random.html" target="_blank">Java Random Class</a></li>
-  <li><a href="https://docs.oracle.com/javase/8/docs/api/java/util/Scanner.html" target="_blank">Java Scanner Class</a></li>
-  <li><a href="https://docs.oracle.com/javase/tutorial/java/" target="_blank">Java Tutorials</a></li>
-</ul>
-
 <h2>License</h2>
 <p>
 You are free to use, modify, and distribute this code for personal or academic purposes.
